@@ -18,3 +18,11 @@ Final Assembly- combines everything into a complete page
 Critic- evaluates the draft for factual accuracy and adherence to the portfolio guide and missing information. Flags issues for the ggent to resolve before presenting the final draft.
 
 Agent Role- understands the user's goal, assesses whether sufficient information is available, identifies missing information, determines which skills are required and orchestrates them in the appropriate sequence. Reviews the generated case study against the Portfolio Guide and user requirements, then presents the draft to the user for feedback and coordinates revisions.
+
+MVP
+Users can upload project text and photo files + define a portfolio guide
+Agent will analyse the material + recommend a case-study structure and visuals according to the guide and generate a complete page layout for user approval
+AI involvement: AI should handle the tedious work while the user remains responsible for approving key decisions as per their liking. This level of involvement will significantly reduce portfolio-building time without allowing the AI to misrepresent the designer's work by keeping the human in the loop
+
+Final scope
+AI portfolio agent that creates a users case study from any type of input. Sources such as figma, drive and notion, audio and produce publish-ready portfolio pages with minimal human intervention.
